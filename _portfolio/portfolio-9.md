@@ -1,6 +1,6 @@
 ---
 title: "Desktop SRT Live Server - Multi-Source Streaming Receiver"
-excerpt: "A professional desktop-based SRT Live Server designed to receive and manage low-latency video streams from Android applications, Kiloview professional encoders, and Blackmagic devices via Fiber Optic (FO). <br/><img src='/images/srt-live-server-dashboard.jpg'>"
+excerpt: "A professional desktop-based SRT Live Server designed to receive and manage low-latency video streams from Android applications, Kiloview professional encoders, and Blackmagic devices via Fiber Optic (FO). <br/><img src='/images/srt-live-server-dashboard.jpg.jpeg'>"
 collection: portfolio
 ---
 
