@@ -12,7 +12,7 @@ The application has been successfully implemented in a real-world broadcasting e
 
 ---
 
-# 🖥 Desktop Application Overview
+# 🖥Desktop Application Overview
 
 This desktop application acts as a professional SRT receiving server capable of managing multiple incoming live streams simultaneously.
 
