@@ -1,6 +1,6 @@
 ---
 title: "Web-Based SRT Live Streaming Dashboard"
-excerpt: "A web-based SRT streaming dashboard for receiving and monitoring live video streams from Android applications and professional camera encoders. Designed for low-latency monitoring and broadcast workflows.<br/><img src='/images/web-srt-dashboard.jpg'>"
+excerpt: "A web-based SRT streaming dashboard for receiving and monitoring live video streams from Android applications and professional camera encoders. Designed for low-latency monitoring and broadcast workflows.<br/><img src='/images/web-srt-dashboard.jpeg'>"
 collection: portfolio
 ---
 
