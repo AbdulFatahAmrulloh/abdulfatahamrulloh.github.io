@@ -27,7 +27,7 @@ The software centralizes all incoming streams into a single server, simplifying 
 
 ---
 
-# 🚀 Key Features
+# 🚀Key Features
 
 ## 📡 Multi-Source SRT Receiver
 
