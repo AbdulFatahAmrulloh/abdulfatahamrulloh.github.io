@@ -12,7 +12,7 @@ Designed for broadcasting environments, the application provides an easy-to-use 
 
 ---
 
-# 🌐 Web Application Overview
+# 🌐Web Application Overview
 
 This web application functions as a centralized monitoring dashboard for incoming SRT streams.
 
