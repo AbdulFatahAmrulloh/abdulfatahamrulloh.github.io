@@ -1,6 +1,6 @@
 ---
 title: "Professional Android Live Streaming Encoder - HDMI Camera to SRT/RTMP Broadcaster"
-excerpt: "A production-ready Android live streaming encoder that transforms a smartphone into a professional broadcasting device. Supports HDMI camera input, H.264 hardware encoding, SRT & RTMP streaming, and seamless integration with vMix, MediaMTX, and broadcast systems.<br/><img src='/images/android-live-streaming-cover.jpg'>"
+excerpt: "A production-ready Android live streaming encoder that transforms a smartphone into a professional broadcasting device. Supports HDMI camera input, H.264 hardware encoding, SRT & RTMP streaming, and seamless integration with vMix, MediaMTX, and broadcast systems.<br/><img src='/images/live.png'>"
 collection: portfolio
 ---
 
